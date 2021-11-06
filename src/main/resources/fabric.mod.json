@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "tancern",
+  "version": "${version}",
+  "name": "Tancern",
+  "description": "replaces cos and sin with tan",
+  "authors": [
+    "imperatorstorm"
+  ],
+  "contact": {
+    "repo": "https://github.com/ImperatorStorm/tancern"
+  },
+  "license": "CC0",
+  "environment": "*",
+  "mixins": [
+    "tancern.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.11.7",
+    "minecraft": "1.17.1"
+  }
+}
