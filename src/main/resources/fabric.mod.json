@@ -16,7 +16,7 @@
     "tancern.mixins.json"
   ],
   "depends": {
-    "fabricloader": ">=0.11.7",
-    "minecraft": "1.17.1"
+    "fabricloader": ">=0.12.5",
+    "minecraft": ">=1.18-pre2"
   }
 }
